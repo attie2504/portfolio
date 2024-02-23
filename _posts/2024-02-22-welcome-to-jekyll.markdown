@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "About me"
 date: 2024-02-23 11:48:27 +0100
 categories: jekyll update
 ---
