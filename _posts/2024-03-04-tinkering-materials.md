@@ -40,10 +40,10 @@ These characteristics are used in the table, however many other characteristics 
 | Scratch             | Yes, in this case a preview of the program is shown             | Less fluid, you need to spend some time to understand how everything works                                                                                | Very versatile, you can make many different kinds of programs                                                                                                                                                            | Cheap, free online software, also failure tolerant since you can't really cause any real damage                                                                              | Yes                            |     |     |     |     |     |     |     |     |     |
 | Tinkercad           | Similar to scratch                                              | Similar to scratch, except that it has more options so more time needed to understand everything                                                          | Very versatile, but more focused on real simulations, and not any fantasy as scratch                                                                                                                                     | Cheap, similar to scratch                                                                                                                                                    | Yes                            |     |     |     |     |     |     |     |     |     |
 
+Totem maker kit:
 <img src="{{ site.baseurl }}/assets/img/materials.jpeg">
 
 <img src="{{ site.baseurl }}/assets/img/materials2.jpeg">
 
+Fischer-technik:
 <img src="{{ site.baseurl }}/assets/img/materials3.jpeg">
-
-<img src="{{ site.baseurl }}/assets/img/buildingblockex.jpeg">
